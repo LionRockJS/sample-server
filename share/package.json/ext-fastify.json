@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lionrockjs/platform-web-fastify": "^0.0.1",
+    "fastify": "^4.27.0"
+  }
+}
